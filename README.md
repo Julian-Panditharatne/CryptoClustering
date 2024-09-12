@@ -1,1 +1,1 @@
-# CryptoClustering
+# Crypto Clustering Challenge
