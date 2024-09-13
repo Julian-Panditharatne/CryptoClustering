@@ -62,7 +62,14 @@ Used the following steps to cluster the cryptocurrencies for the best value for 
 
 ## **Repository Files and Folders**
 
+Besides this `README.md` file, there are three files and one folder.
 
+Two of those files are outside of the folder and are within the root directory alongside the `README.md` file:
+
+- `Crypto_Clustering.ipynb`: The Jupyter Notebook file containing the script used to perform the unsupervised learning techniques.
+- `Crypto_Clustering_starter_code.ipynb`: The Jupyter Notebook file containing the starter code used to make the script in `Crypto_Clustering.ipynb`.
+
+Within the folder, which is named ***Resources***, there is the CSV file named `crypto_market_data.csv` that contains the data used for this challenge.
 
 ---
 
